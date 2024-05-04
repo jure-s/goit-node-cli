@@ -1,0 +1,16 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "Home Work",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "nanoid": "^3.1.16"
+  }
+}
